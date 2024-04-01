@@ -1,6 +1,6 @@
 # Docker Odoo
 
-## Install Docker Desctop
+## Install Docker Desktop
 https://www.docker.com/products/docker-desktop
 
 ## Install Docker Compose
