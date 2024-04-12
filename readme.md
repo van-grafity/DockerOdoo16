@@ -231,7 +231,7 @@ docker-compose exec db env
 ```
 
 ## Source
-```
+```bash
 https://github.com/van-grafity/odoo-16-docker.git
 ```
 
@@ -250,4 +250,10 @@ Restart your computer.
 ```bash
 \\wsl$
 ```
+
+## Online or Not (docker version)
+```bash
+docker version
+```
+
 
