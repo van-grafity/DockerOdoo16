@@ -229,3 +229,25 @@ docker-compose exec web env
 ```bash
 docker-compose exec db env
 ```
+
+## Source
+```
+https://github.com/van-grafity/odoo-16-docker.git
+```
+
+## Enable Hyper-V
+```bash
+Docker Desktop > Settings > General > Use the WSL 2 based engine
+or
+Open "Control Panel" from the Start menu.
+Click on "Programs".
+Click on "Turn Windows features on or off".
+Check "Hyper-V" and click "OK".
+Restart your computer.
+```
+
+## \\wsl$ command to work, make sure that your docker desktop is running.
+```bash
+\\wsl$
+```
+
